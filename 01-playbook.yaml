@@ -1,0 +1,6 @@
+- name: ping demo
+  hosts: localhost # targeting ansible local host, no need to refer inventory file
+  connection: local # will not expect any credentials
+  tasks: # modules or collections (same)
+  - name: ping localhost
+    ping:
