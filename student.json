@@ -1,0 +1,50 @@
+[
+    {
+        "firstName": "Yashwanth",
+        "lastName": "K",
+        "dob": "13-06-1998",
+        "addresses": [
+            {
+                "type": "temparory",
+                "doorNo": "#98",
+                "streetName": "BTM Layout",
+                "city": "Bangalore"
+            },
+            {
+                "type": "permanent",
+                "doorNo": "#78",
+                "streetName": "HSR Layout",
+                "city": "Bangalore"
+            }
+        ],
+        "skills": {
+            "os": "linux",
+            "IDE": "VS Code",
+            "Config Tool": "Ansible"
+        }
+    },
+    {
+        "firstName": "Yashwanth",
+        "lastName": "K",
+        "dob": "13-06-1998",
+        "addresses": [
+            {
+                "type": "temparory",
+                "doorNo": "#98",
+                "streetName": "BTM Layout",
+                "city": "Bangalore"
+            },
+            {
+                "type": "permanent",
+                "doorNo": "#78",
+                "streetName": "HSR Layout",
+                "city": "Bangalore"
+            }
+        ],
+        "skills": {
+            "os": "linux",
+            "IDE": "VS Code",
+            "Config Tool": "Ansible"
+        }
+    }
+]

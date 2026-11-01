@@ -1,0 +1,33 @@
+<Student>
+    <firstName>Yashwanth</firstName>
+    <lastName>K</lastName>
+    <dob>13-06-1998</dob>
+    <addresses>
+        <address type="Temprory">
+            <doorNo>#98</doorNo>
+            <streetName>BTM Layout</streetName>
+            <city>Bangalore</city>
+        </address>
+        <address type="Permanent">
+            <doorNo>#78</doorNo>
+            <streetName>HSR Layout</streetName>
+            <city>Bangalore</city>
+        </address>
+    </addresses>
+
+    <firstName>Yashwanth</firstName>
+    <lastName>K</lastName>
+    <dob>13-06-1998</dob>
+    <addresses>
+        <address type="Temprory">
+            <doorNo>#98</doorNo>
+            <streetName>BTM Layout</streetName>
+            <city>Bangalore</city>
+        </address>
+        <address type="Permanent">
+            <doorNo>#78</doorNo>
+            <streetName>HSR Layout</streetName>
+            <city>Bangalore</city>
+        </address>
+    </addresses>
+</Student>
